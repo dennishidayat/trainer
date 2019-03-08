@@ -1,0 +1,9 @@
+com\enigma\task\trainer\dao\impl\BaseImpl.class
+com\enigma\task\trainer\repository\TrainerRepository.class
+com\enigma\task\trainer\dao\TrainerDao.class
+com\enigma\task\trainer\dto\CommonResponse.class
+com\enigma\task\trainer\dao\impl\TrainerDaoImpl.class
+com\enigma\task\trainer\exception\CustomException.class
+com\enigma\task\trainer\dto\TrainerDto.class
+com\enigma\task\trainer\model\Trainer.class
+com\enigma\task\trainer\config\DaoSpringConfig.class
